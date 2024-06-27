@@ -1,7 +1,1 @@
-#my first
-
-its cool
-codding
-3
-4
-5
+https://daniil19081.github.io/rsschool-cv/CV
