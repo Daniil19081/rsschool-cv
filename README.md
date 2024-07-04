@@ -1,1 +1,1 @@
-#тут будет ссылка
+https://daniil19081.github.io/rsschool-cv/index.html
