@@ -1,5 +1,25 @@
-Hello my name Kolesnikov Daniil
-**+79880925186 discord Pinki1908**
-**hello everyone, I always wanted to become a programmer, but somehow I didn't have enough strength for it and everything seemed very difficult, but this time I am determined and I want to learn something new for myself and develop in this direction**
-**I don't have the skills and experience in this field yet, but I really hope to acquire them and become successful in this direction**
-**I have a higher education, graduated from Rostov University, but in a specialty unrelated to this field of activity. I speak English at a low level, although now such technologies that I think it has a strong effect on life activity. If necessary, I can learn it.**
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <h1>Hello my name Kolesnikov Daniil</h1>
+        </header>
+<main><img src="/rsschool-cv/photo_5204185940006919793_y.jpg" width="800" height="800" alt="my photo">
+<div>Contact:<p><b>+79880925186 discord Pinki1908(daniil19081)</b></p></div>
+<div>About me: <p><b>hello everyone, I always wanted to become a programmer, but somehow I didn't have enough strength for it and everything seemed very difficult, but this time I am determined and I want to learn something new for myself and develop in this direction</b></p></div>
+<div>Skills:I have some basics skills in<ol>
+<li><b>Html</b></li>
+<li><b>JS</b></li>
+<li><b>CSS</b></li>
+</ol></div>
+<div>Education and laguages:<p><b>I have a higher education, graduated from Rostov University, but in a specialty unrelated to this field of activity. I speak English at a low level, although now such technologies that I think it has a strong effect on life activity. If necessary, I can learn it.</b></p></div></main>
+<footer><p>https://github.com/Daniil19081</p> <p><img src="/rsschool-cv/001704124.jpg" width="400" height="400" alt="logo rsschool"></p></footer>
+    
+</body>
+</html>
